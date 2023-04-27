@@ -5,9 +5,11 @@ This repo is just a proposal for a scrapper and parser in bash
 
 The only thing we have to add in the base environment is the library poppler-utils which enables linux to read pdfs, among other things. Please run the following 2 commands to adapt your environment.
 
+```
 apt-get update
-apt-get install -y poppler-utils
 
+apt-get install -y poppler-utils
+```
 
 # Python
 
